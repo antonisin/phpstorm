@@ -2,7 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -12,21 +11,10 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>.</mask>
-      <mask>.h</mask>
-      <mask>.ha</mask>
-      <mask>.ham</mask>
-      <mask>.haml</mask>
-      <mask>hm.haml</mask>
-      <mask>h.haml</mask>
-      <mask>ht.haml</mask>
-      <mask>htm.haml</mask>
-      <mask>html.haml</mask>
-      <mask>.html.haml</mask>
-      <mask>*.html.haml</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
