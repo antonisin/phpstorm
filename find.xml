@@ -6,10 +6,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jade" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>.</mask>
       <mask>.h</mask>
       <mask>.ha</mask>
@@ -31,12 +29,15 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jad</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
