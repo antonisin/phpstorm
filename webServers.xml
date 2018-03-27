@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="9b56004a-8930-4911-b081-25636e3bbe9b" name="new.lifehack.md" url="http://new.lifehack.md">
-        <fileTransfer host="new.lifehack.md" port="22" rootFolder="/home/lifehack/web/new.lifehack.md/public_html/wp-content" accessType="SFTP">
+        <fileTransfer host="new.lifehack.md" port="22" rootFolder="/home/lifehack/web/new.lifehack.md/public_html/wp-content/themes/lifehack" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
