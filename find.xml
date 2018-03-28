@@ -8,10 +8,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>.</mask>
-      <mask>.h</mask>
-      <mask>.ha</mask>
       <mask>.ham</mask>
       <mask>.haml</mask>
       <mask>hm.haml</mask>
@@ -39,6 +37,9 @@
       <mask>*.ja</mask>
       <mask>*.jad</mask>
       <mask>*.jade</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
