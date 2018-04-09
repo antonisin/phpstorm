@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Product" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="ctp" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
