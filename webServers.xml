@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="34d4b88d-d208-4e10-9855-d2c107271929" name="pim-auswahl" url="http://kvm1.meta.md">
+        <fileTransfer host="kvm1.meta.md" port="2346" rootFolder="/var/www/pim-auswahl.meta.md/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2346" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
