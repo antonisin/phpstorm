@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="bson" type="JSON" />
       <mapping pattern="ads.jade" type="PLAIN_TEXT" />
       <mapping pattern="Product" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
