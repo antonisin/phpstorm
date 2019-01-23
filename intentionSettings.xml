@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Symfony2MethodCreateService" />
+    <ignoreAction name="PHP/Flip binary expression" />
+  </component>
+</application>
