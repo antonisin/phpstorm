@@ -1,5 +1,5 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="10" />
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
 </application>

@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="vicdoc" value="/**&#10; * $CLASSNAME$&#10; * @author Victor Berestian &lt;berestianvictor@gmail.com&gt;&#10; *&#10; * @version 1.0.0&#10; */" description="phpdoc for class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="fileNameWithoutExtension()" defaultValue="CLASS" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
