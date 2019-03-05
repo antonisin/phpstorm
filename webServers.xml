@@ -17,6 +17,14 @@
           <option name="port" value="2346" />
         </fileTransfer>
       </webServer>
+      <webServer id="ba576712-6aec-4ad6-bc53-5ac03d7aa779" name="abuse.mailhop.org" url="http://abuse.mailhop.org">
+        <fileTransfer host="abuse.mailhop.org" port="22" rootFolder="/opt/abuseio" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
