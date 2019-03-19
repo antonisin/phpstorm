@@ -2,5 +2,9 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Symfony2MethodCreateService" />
     <ignoreAction name="PHP/Flip binary expression" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Convert template string to use visible line separators" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
   </component>
 </application>
