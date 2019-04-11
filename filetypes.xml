@@ -6,6 +6,7 @@
       <mapping pattern="chain" type="PLAIN_TEXT" />
       <mapping pattern="abusix_table.jst" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="asd" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
