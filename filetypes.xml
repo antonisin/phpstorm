@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="WordToSurveyQuestion" type="PHP" />
       <mapping pattern="certificate" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="chain" type="PLAIN_TEXT" />
