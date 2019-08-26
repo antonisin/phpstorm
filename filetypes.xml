@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="WordToSurveyQuestion" type="PHP" />
-      <mapping pattern="certificate" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="chain" type="PLAIN_TEXT" />
       <mapping pattern="abusix_table.jst" type="PLAIN_TEXT" />
+      <mapping pattern="certificate" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="asd" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="asd" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
     </extensionMap>
   </component>
