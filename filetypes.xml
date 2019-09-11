@@ -12,6 +12,7 @@
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
+      <mapping ext="dist" type="YAML" />
     </extensionMap>
   </component>
 </application>
