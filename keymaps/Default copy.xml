@@ -1,19 +1,20 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="Console.TableResult.SelectRow" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="meta button142" />
   </action>
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="meta button143" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="Vcs.UpdateProject" />
 </keymap>
