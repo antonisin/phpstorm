@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
-    <option name="isContrastMode" value="true" />
-    <option name="tabsHeight" value="15" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="tabsHeight" value="15" />
+    <option name="userId" value="-1d151c93:16da137113d:-7ff9" />
+    <option name="version" value="3.10.0" />
   </component>
 </application>
