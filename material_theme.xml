@@ -3,7 +3,10 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
     <option name="tabsHeight" value="15" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-1d151c93:16da137113d:-7ff9" />
     <option name="version" value="3.10.0" />
   </component>
