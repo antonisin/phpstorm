@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ControllerInterface" type="PHP" />
       <mapping pattern="WordToSurveyQuestion" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="chain" type="PLAIN_TEXT" />
