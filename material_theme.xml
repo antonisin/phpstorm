@@ -2,8 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
     <option name="isContrastMode" value="true" />
-    <option name="tabsHeight" value="15" />
-    <option name="isCompactStatusBar" value="true" />
+    <option name="tabsHeight" value="50" />
     <option name="isCompactTables" value="true" />
   </component>
 </application>
