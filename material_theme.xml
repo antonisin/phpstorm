@@ -3,7 +3,10 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
     <option name="tabsHeight" value="15" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-5b8f2306:170f7886fed:-7ff2" />
     <option name="version" value="3.10.0" />
   </component>
