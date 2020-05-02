@@ -3,17 +3,11 @@
     <option name="servers">
       <webServer id="9b56004a-8930-4911-b081-25636e3bbe9b" name="new.lifehack.md" url="http://new.lifehack.md">
         <fileTransfer host="new.lifehack.md" port="22" rootFolder="/home/lifehack/web/new.lifehack.md/public_html/wp-content/themes/lifehack" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions />
-          </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="34d4b88d-d208-4e10-9855-d2c107271929" name="pim-auswahl" url="http://kvm1.meta.md">
         <fileTransfer host="kvm1.meta.md" port="2346" rootFolder="/var/www/pim-auswahl.meta.md/public_html" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions />
-          </advancedOptions>
           <option name="port" value="2346" />
         </fileTransfer>
       </webServer>
@@ -23,6 +17,14 @@
             <advancedOptions passiveMode="true" />
           </advancedOptions>
           <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4f1e00eb-3f1e-4006-b782-04652f1ea105" name="ya888ya-original.ru" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
