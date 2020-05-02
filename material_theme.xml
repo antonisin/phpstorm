@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
-    <option name="selectedTheme" value="ARC_DARK" />
     <option name="isContrastMode" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactTables" value="true" />
