@@ -19,6 +19,22 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f90db57d-5758-4887-a0da-c0b79ce771ba" name="ya888ya-original.ru" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/ya888ya-original.ru/public_html/">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="33d1132c-39b0-44bb-a526-451a88389b06" name="superomatic-system.ru" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/superomatic-system.ru/public_html/">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
