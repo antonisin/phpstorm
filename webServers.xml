@@ -3,36 +3,26 @@
     <option name="servers">
       <webServer id="9b56004a-8930-4911-b081-25636e3bbe9b" name="new.lifehack.md" url="http://new.lifehack.md">
         <fileTransfer host="new.lifehack.md" port="22" rootFolder="/home/lifehack/web/new.lifehack.md/public_html/wp-content/themes/lifehack" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions />
+          </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="34d4b88d-d208-4e10-9855-d2c107271929" name="pim-auswahl" url="http://kvm1.meta.md">
         <fileTransfer host="kvm1.meta.md" port="2346" rootFolder="/var/www/pim-auswahl.meta.md/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions />
+          </advancedOptions>
           <option name="port" value="2346" />
         </fileTransfer>
       </webServer>
-      <webServer id="ba576712-6aec-4ad6-bc53-5ac03d7aa779" name="Bk-Soft Template" url="http://fedseoqu.beget.tech">
-        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/new.bk-soft.ru/public_html/wp-content/themes/bk-soft_template">
+      <webServer id="ba576712-6aec-4ad6-bc53-5ac03d7aa779" name="abuse.mailhop.org" url="http://abuse.mailhop.org">
+        <fileTransfer host="abuse.mailhop.org" port="22" rootFolder="/opt/abuseio" accessType="SFTP">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="f90db57d-5758-4887-a0da-c0b79ce771ba" name="ya888ya-original.ru" url="http://fedseoqu.beget.tech">
-        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/ya888ya-original.ru/public_html/">
-          <advancedOptions>
-            <advancedOptions passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="33d1132c-39b0-44bb-a526-451a88389b06" name="superomatic-system.ru" url="http://fedseoqu.beget.tech">
-        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/superomatic-system.ru/public_html/">
-          <advancedOptions>
-            <advancedOptions passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
