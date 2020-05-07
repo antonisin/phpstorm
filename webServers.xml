@@ -20,7 +20,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4f1e00eb-3f1e-4006-b782-04652f1ea105" name="ya888ya-original.ru" url="http://fedseoqu.beget.tech">
-        <fileTransfer host="fedseoqu.beget.tech" port="21">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/ya888ya-original.ru/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
