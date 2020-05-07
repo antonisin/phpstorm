@@ -27,6 +27,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="dca574ad-1412-48de-94b8-6605611029fb" name="new.bk-soft.ru" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/new.bk-soft.ru/public_html/wp-content/themes/bk-soft_template">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
