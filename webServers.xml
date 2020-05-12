@@ -35,6 +35,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="77ee6258-eab7-4808-9ecc-65c237f9f941" name="slotsoft-systems.ru" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/slotsoft-systems.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
