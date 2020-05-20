@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="new.lifehack.md" id="077cab9a-f3e6-4223-994d-cbb60b774dc6" port="22" customName="new.lifehack.md" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="kvm1.meta.md" id="21a385dd-5cfc-404d-93ef-7524d702d6fc" port="2346" customName="pim-auswahl" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="abuse.mailhop.org" id="eba53ed5-d0e2-485b-a849-3be203f01c80" port="22" customName="abuse.mailhop.org" nameFormat="CUSTOM" username="duocircle" />
+    </configs>
+  </component>
+</application>
