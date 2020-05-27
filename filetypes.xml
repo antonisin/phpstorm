@@ -12,7 +12,6 @@
       <mapping pattern="abusix_table.jst" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="asd" type="PLAIN_TEXT" />
-      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
       <mapping ext="dist" type="YAML" />
