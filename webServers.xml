@@ -43,6 +43,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="41541046-f50e-45cc-9c67-79d10094b39a" name="playtech-software.com" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/playtech-software.com/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
