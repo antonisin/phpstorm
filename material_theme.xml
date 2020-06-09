@@ -1,17 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
-    <option name="highContrast" value="true" />
-    <option name="isCompactTables" value="true" />
+    <option name="version" value="1.6.1" />
     <option name="isContrastMode" value="true" />
-    <option name="isHighContrast" value="true" />
-    <option name="isWizardShown" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="tabsHeight" value="50" />
     <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-49f16e94:17212099eac:-7fff" />
-    <option name="version" value="5.2.0" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactTables" value="true" />
   </component>
 </application>
