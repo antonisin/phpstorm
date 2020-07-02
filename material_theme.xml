@@ -1,13 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactTables" value="true" />
-    <option name="contrastMode" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="tabsHeight" value="50" />
-    <option name="accentColor" value="ff9800" />
+    <option name="version" value="1.6.1" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="770eb9cc:172ef8b26ef:-7ff9" />
-    <option name="version" value="5.2.0" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="ff9800" />
+    <option name="tabsHeight" value="50" />
+    <option name="isCompactTables" value="true" />
   </component>
 </application>
