@@ -17,7 +17,7 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.php</mask>
-    <mask>*.ts</mask>
     <mask>*.less</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
