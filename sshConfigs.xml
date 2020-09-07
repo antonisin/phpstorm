@@ -94,7 +94,9 @@
       <sshConfig authType="PASSWORD" host="kvm1.meta.md" id="78231158-0edc-440f-9b60-0dc54ee4f8e5" port="2346" customName="pim-auswahl" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="new.lifehack.md" id="6d27f901-3784-4aed-b133-02c0b8665707" port="22" customName="new.lifehack.md" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="kvm1.meta.md" id="f1f4cead-c66b-443a-8c8c-a42e4b75c5bb" port="2346" customName="pim-auswahl" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="abuse.mailhop.org" id="153cafef-a3c9-4bea-918f-b64b787c1639" port="22" customName="abuse.mailhop.org" nameFormat="CUSTOM" username="duocircle" />
+      <sshConfig authType="PASSWORD" host="new.lifehack.md" id="91c5bece-db5a-49bf-bf42-e5be309f5c33" port="22" customName="new.lifehack.md" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="kvm1.meta.md" id="5b181e89-0afb-4a13-9577-b60f570e41b6" port="2346" customName="pim-auswahl" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="abuse.mailhop.org" id="abd4dfd6-52c8-4e51-8c6c-02eb776990c7" port="22" customName="abuse.mailhop.org" nameFormat="CUSTOM" username="duocircle" />
     </configs>
   </component>
 </application>
