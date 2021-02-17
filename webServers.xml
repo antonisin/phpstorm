@@ -67,6 +67,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="25714b33-5d97-4fc1-b43e-4d72b97b2f77" name="club-systems.biz" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/club-systems.biz/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
