@@ -27,14 +27,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="77ee6258-eab7-4808-9ecc-65c237f9f941" name="slotsoft-systems.ru" url="http://fedseoqu.beget.tech">
-        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/slotsoft-systems.ru/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="05443fa5-0a6b-4f4b-bb04-929c86a8e2ac" name="bk-soft.ru" url="http://fedseoqu.beget.tech">
         <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/bk-soft.ru/public_html/wp-content/themes/bk-soft_template">
           <advancedOptions>
@@ -69,6 +61,14 @@
       </webServer>
       <webServer id="3cc6d7ae-907c-4c32-9b18-0584c7391e08" name="superomatic" url="http://fedseoqu.beget.tech">
         <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/superomatic-system.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7a54c100-44dc-4cb9-9410-5e1e1e5ddcb9" name="slotsoft-systems.ru" url="http://fedseoqu.beget.tech">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/slotsoft-systems.ru/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
