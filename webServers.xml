@@ -60,7 +60,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3cc6d7ae-907c-4c32-9b18-0584c7391e08" name="superomatic" url="http://fedseoqu.beget.tech">
-        <fileTransfer host="fedseoqu.beget.tech" port="21">
+        <fileTransfer host="fedseoqu.beget.tech" port="21" rootFolder="/home/f/fedseoqu/bk-soft.ru/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
